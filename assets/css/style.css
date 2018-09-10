@@ -59,9 +59,11 @@ ul.project-title li {
     border-bottom: 3px solid #fff;
     cursor: pointer;
 }
+
 ul.project-title li.active {
     border-color: #000;
 }
+
 .single-project-item {
     background-size:  cover;
     background-position:  center;
@@ -139,8 +141,6 @@ a.project-video {
     z-index:  -1;
     opacity:  .5;
 }
-
-.project-hover p {}
 
 .single-project-item a {
     color: #000;
